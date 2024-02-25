@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PopcornCritic/static/css/main.daee9fb9.css",
-    "main.js": "/PopcornCritic/static/js/main.23772add.js",
+    "main.js": "/PopcornCritic/static/js/main.f468cb1b.js",
     "index.html": "/PopcornCritic/index.html",
     "main.daee9fb9.css.map": "/PopcornCritic/static/css/main.daee9fb9.css.map",
-    "main.23772add.js.map": "/PopcornCritic/static/js/main.23772add.js.map"
+    "main.f468cb1b.js.map": "/PopcornCritic/static/js/main.f468cb1b.js.map"
   },
   "entrypoints": [
     "static/css/main.daee9fb9.css",
-    "static/js/main.23772add.js"
+    "static/js/main.f468cb1b.js"
   ]
 }
